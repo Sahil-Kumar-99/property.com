@@ -1,0 +1,6 @@
+{
+  "appId": "com.propd.app",
+  "appName": "Prop D",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
